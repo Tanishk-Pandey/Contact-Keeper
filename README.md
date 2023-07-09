@@ -2,10 +2,6 @@
 **Contact Keeper** is an easy to manage **advanced telephone directory**. It always you to store contacts of your knowns segregating them as professional or personal.
 It also allows to add, edit, search and delete your contacts. It is built using MERN TechStack.
 
-# Live Demo
-```bash
-https://your-contact-keeper.herokuapp.com/
-```
 
 # Preview
 **Create a new account**
